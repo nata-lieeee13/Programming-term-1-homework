@@ -1,0 +1,15 @@
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/bin/Debug/net7.0/Assignment6
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/bin/Debug/net7.0/Assignment6.deps.json
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/bin/Debug/net7.0/Assignment6.runtimeconfig.json
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/bin/Debug/net7.0/Assignment6.dll
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/bin/Debug/net7.0/Assignment6.pdb
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.csproj.AssemblyReference.cache
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.AssemblyInfoInputs.cache
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.AssemblyInfo.cs
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.csproj.CoreCompileInputs.cache
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.dll
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/refint/Assignment6.dll
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.pdb
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/Assignment6.genruntimeconfig.cache
+/Users/natalie/Projects/Homework Classes and Enums Week 5/Assignment6/obj/Debug/net7.0/ref/Assignment6.dll
